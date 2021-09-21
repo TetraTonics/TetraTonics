@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TetraTonics
-- 👀 Besides programming, I’m interested in video games and graphic design
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- Hi I'm Jasmine Ge
+- I like programming and graphic design and video games
+- I’m currently learning Python 
+idk i just want to learn
 - 📫 How to reach me ... jasmine.ge.2015@outlook.com
 
 <!---
