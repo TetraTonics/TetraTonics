@@ -1,2 +1,3 @@
-- Hi I'm Jasmine Ge
+the readme will be added soon
+
 
